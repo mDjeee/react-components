@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(132, 153, 172);
+}
+
+.list {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}
+
+.active {
+  border-bottom: 2px solid #F78166;
+}
